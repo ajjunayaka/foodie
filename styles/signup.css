@@ -1,0 +1,27 @@
+.Sign_Up{
+    display: flex;
+    margin-left: 30%;
+    margin-top: 5%;
+    /* justify-content: space-evenly; */
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 15px;
+    width: 785px;
+    height: 480px;
+}
+.forms input{
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 45px;
+    
+}
+.forms{
+    margin-left: 5px;
+}
+.Right_part{
+    margin-left: 110px;
+    margin-top: 90px;
+}
+.links a{
+   color:black;
+}
